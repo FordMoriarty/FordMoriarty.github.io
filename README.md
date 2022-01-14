@@ -42,7 +42,8 @@ computer architectures, electric drives.
 You can find me on [LinkedIn](http://linkedin.com/in/alessandro-borghi-736ab9b4) and [Twitter](https://twitter.com/alleborghi1996)
 
 ### Note
-For now this website is still under construction, you can find me on [LinkedIn](http://linkedin.com/in/alessandro-borghi-736ab9b4) or [here](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_breiten/v_menue/mitarbeiterinnen/alessandro_borghi/home/)
+For now this website is still under construction, you can find me on [LinkedIn](http://linkedin.com/in/alessandro-borghi-736ab9b4) or [here](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_breiten/v_menue/mitarbeiterinnen/alessandro_borghi/home/) <br/>
+If you want to see cool fractals look [here!](interestingfigures.md)
 
 <!-- ## Welcome to GitHub Pages
 
