@@ -4,14 +4,28 @@
 
 # Curriculum Vitae
 - [**PhD Researcher**](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_breiten/v_menue/mitarbeiterinnen/alessandro_borghi/home/) at TU Berlin (Berlin, Germany) [Oct.2021-Present]
-- **MSc Systems & Control** at 3mE Department (DCSC) of Delft University of Technology (Delft, Netherlands) [Sep.2019-Oct.2021]
-- **BSc Automation Engineering** for double bachelor program with Tongji University (Shanghai, China) [Sep. 2016-Jul.2019]
-- **BSc Automation Engineering** at University of Bologna (Bologna, Italy) [Sep. 2015-Dec.2018]
+- **MSc Systems & Control** at Delft University of Technology / 3mE Department / DCSC <br/>(Delft, Netherlands) <br/>[Sep.2019-Oct.2021]
+- **BSc Automation Engineering** for double bachelor program with Tongji University <br/>(Shanghai, China) <br/>[Sep. 2016-Jul.2019]
+- **BSc Automation Engineering** at University of Bologna <br/>(Bologna, Italy) <br/>[Sep. 2015-Dec.2018]
 
 # Projects
 - PhD Research: _"Structure-preserving model reduction for the efficient computation of exceptional points in thermoacoustic spectra"_ [Project Q03](https://daedalus.berlin/projects/) of [DAEDALUS](https://daedalus.berlin/)
 - MSc Thesis Topic: [_"Koopman Subspace Identification in the Presence of Measurement Noise"_](https://repository.tudelft.nl/islandora/object/uuid:22250d5c-875c-44a9-adf4-d643a6a08dba?collection=education)
 - Second BSc Thesis with Beckhoff Automation: [_"Simulation and Implementation of the Input Shaping Technique for a Flexible Transmission System"_](https://www.researchgate.net/publication/357827921_Simulation_and_Implementation_of_the_Input_Shaping_Technique_for_a_Flexible_Transmission_System) 
+- BSc Thesis _"Comparison of Three Fuzzy Controllers for an Industrial Linear Axis"_
+
+# Research Interests
+- Computational methods for solving nonlinear eigenvalue problems
+- Identification of exceptional points
+- Model reduction methods
+- Data-driven modelling
+- Bifurcation theory
+- Koopman operator theory
+
+# Professional Experience
+- **Business Development Associate** <br/>([Sparksense](https://sparksense.co/), Zurich, Switzerland) <br/>[Oct.2020-Mar.2021]
+- **Internship project (R&D)** <br/>(Beckhoff Automation Co., Ltd., Shanghai, China) <br/>[Mar.2019-Jul.2019]
+- **Exchange student ([AlmaTong Project](https://corsi.unibo.it/2cycle/AutomationEngineering/opportunities-multiple-degree-programme))** <br/>(Tongji University, Shanghai, China) <br/>[Sep. 2016 – Jul. 2017] 
 
 ### Note
 For now this website is still under construction, you can find me on [LinkedIn](http://linkedin.com/in/alessandro-borghi-736ab9b4) or [here](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_breiten/v_menue/mitarbeiterinnen/alessandro_borghi/home/)
