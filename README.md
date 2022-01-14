@@ -1,4 +1,4 @@
-<img src="DSC00627.jpg" width="200" align="right">
+<img src="DSC00627.jpg" width="200" align="center">
 
 
 
