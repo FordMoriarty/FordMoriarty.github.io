@@ -2,7 +2,7 @@
 
 
 
-# Curriculum Vitae
+# Education
 - [**PhD Researcher**](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_breiten/v_menue/mitarbeiterinnen/alessandro_borghi/home/) at TU Berlin (Berlin, Germany) [Oct.2021-Present]
 - **MSc Systems & Control** at Delft University of Technology / 3mE Department / DCSC <br/>(Delft, Netherlands) <br/>[Sep.2019-Oct.2021]
 - **BSc Automation Engineering** for double bachelor program with Tongji University <br/>(Shanghai, China) <br/>[Sep. 2016-Jul.2019]
