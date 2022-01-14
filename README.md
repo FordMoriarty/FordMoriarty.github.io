@@ -38,6 +38,9 @@ Control theory for linear systems, optimization in systems and control, nonlinea
 spectral analysis of nonlinear/infinite dimensional systems, filtering and identification, dynamic programming and stochastic control, industrial robotics,
 computer architectures, electric drives.
 
+# Social
+You can find me on [LinkedIn](http://linkedin.com/in/alessandro-borghi-736ab9b4) and [Twitter](https://twitter.com/alleborghi1996)
+
 ### Note
 For now this website is still under construction, you can find me on [LinkedIn](http://linkedin.com/in/alessandro-borghi-736ab9b4) or [here](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_breiten/v_menue/mitarbeiterinnen/alessandro_borghi/home/)
 
