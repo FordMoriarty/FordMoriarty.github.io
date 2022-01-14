@@ -1,4 +1,5 @@
-![Image](https://github.com/FordMoriarty/FordMoriarty.github.io/blob/main/DSC00627.JPG)
+<img src="https://github.com/FordMoriarty/FordMoriarty.github.io/blob/main/DSC00627.jpg" width="48">
+
 # Curriculum Vitae
 For now this website is still under construction, you can find me here [Link](http://linkedin.com/in/alessandro-borghi-736ab9b4)
 
