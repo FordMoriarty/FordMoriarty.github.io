@@ -1,6 +1,6 @@
 <img src="DSC00627.jpg" width="200" align="right">
 
-For now this website is still under construction, you can find me on [LinkedIn](http://linkedin.com/in/alessandro-borghi-736ab9b4) or [here](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_breiten/v_menue/mitarbeiterinnen/alessandro_borghi/home/)
+
 
 # Curriculum Vitae
 - [**PhD Researcher**](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_breiten/v_menue/mitarbeiterinnen/alessandro_borghi/home/) at TU Berlin (Berlin, Germany) [Oct.2021-Present]
@@ -13,6 +13,8 @@ For now this website is still under construction, you can find me on [LinkedIn](
 - MSc Thesis Topic: [_"Koopman Subspace Identification in the Presence of Measurement Noise"_](https://repository.tudelft.nl/islandora/object/uuid:22250d5c-875c-44a9-adf4-d643a6a08dba?collection=education)
 - Second BSc Thesis with Beckhoff Automation: [_"Simulation and Implementation of the Input Shaping Technique for a Flexible Transmission System"_](https://www.researchgate.net/publication/357827921_Simulation_and_Implementation_of_the_Input_Shaping_Technique_for_a_Flexible_Transmission_System) 
 
+### Note
+For now this website is still under construction, you can find me on [LinkedIn](http://linkedin.com/in/alessandro-borghi-736ab9b4) or [here](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_breiten/v_menue/mitarbeiterinnen/alessandro_borghi/home/)
 <!--## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/FordMoriarty/FordMoriarty.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
