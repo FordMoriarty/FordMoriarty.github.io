@@ -21,6 +21,7 @@
 - Data-driven modelling
 - Bifurcation theory
 - Koopman operator theory
+- Deep Learning 
 
 # Professional Experience
 - **Business Development Associate** <br/>([Sparksense](https://sparksense.co/), Zurich, Switzerland) <br/>[Oct.2020-Mar.2021]
