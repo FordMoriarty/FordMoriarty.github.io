@@ -13,7 +13,7 @@ For now this website is still under construction, you can find me on [LinkedIn](
 - MSc Thesis Topic: "[_Koopman Subspace Identification in the Presence of Measurement Noise_](https://repository.tudelft.nl/islandora/object/uuid:22250d5c-875c-44a9-adf4-d643a6a08dba?collection=education)"
 - Second BSc Thesis with Beckhoff Automation: "[_Simulation and Implementation of the Input Shaping Technique for a Flexible Transmission System_](https://www.researchgate.net/publication/357827921_Simulation_and_Implementation_of_the_Input_Shaping_Technique_for_a_Flexible_Transmission_System)" 
 
-## Welcome to GitHub Pages
+<!--## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/FordMoriarty/FordMoriarty.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -49,4 +49,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.-->
