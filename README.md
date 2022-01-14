@@ -1,4 +1,4 @@
-<img src="DSC00627.jpg" width="200">
+<img src="DSC00627.jpg" width="200" align="right">
 
 For now this website is still under construction, you can find me on [LinkedIn](http://linkedin.com/in/alessandro-borghi-736ab9b4) or [here](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_breiten/v_menue/mitarbeiterinnen/alessandro_borghi/home/)
 
