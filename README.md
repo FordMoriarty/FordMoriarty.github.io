@@ -8,6 +8,11 @@ For now this website is still under construction, you can find me on [LinkedIn](
 - BSc Automation Engineering for double bachelor program with Tongji University (Shanghai, China) [Sep. 2016-Jul.2019]
 - BSc Automation Engineering at University of Bologna (Bologna, Italy) [Sep. 2015-Dec.2018]
 
+# Projects
+- PhD Research: "_Structure-preserving model reduction for the efficient computation of exceptional points in thermoacoustic spectra_" [Project Q03](https://daedalus.berlin/projects/) of [DAEDALUS](https://daedalus.berlin/)
+- MSc Thesis Topic: "[_Koopman Subspace Identification in the Presence of Measurement Noise_](https://repository.tudelft.nl/islandora/object/uuid:22250d5c-875c-44a9-adf4-d643a6a08dba?collection=education)"
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/FordMoriarty/FordMoriarty.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
