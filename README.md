@@ -28,6 +28,16 @@
 - **Internship project (R&D)** <br/>(Beckhoff Automation Co., Ltd., Shanghai, China) <br/>[Mar.2019-Jul.2019]
 - **Exchange student ([AlmaTong Project](https://corsi.unibo.it/2cycle/AutomationEngineering/opportunities-multiple-degree-programme))** <br/>(Tongji University, Shanghai, China) <br/>[Sep. 2016 – Jul. 2017] 
 
+# Knowledge
+## Tools
+In my current PhD project I make use of Python. <br/>
+In all my projects I used MATLAB and Simulink. <br/>
+For my double BSc thesis I emplyed Structured text IEC 61131-3 from TwinCAT.
+## Relevant coursework during my studies
+Control theory, optimization, nonlinear systems,
+spectral analysis of nonlinear/infinite dimensional systems, filtering and identification, industrial robotics,
+computer architectures, control systems, electric drives.
+
 ### Note
 For now this website is still under construction, you can find me on [LinkedIn](http://linkedin.com/in/alessandro-borghi-736ab9b4) or [here](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_breiten/v_menue/mitarbeiterinnen/alessandro_borghi/home/)
 
