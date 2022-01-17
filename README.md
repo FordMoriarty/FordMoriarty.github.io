@@ -11,7 +11,7 @@ I am a PhD researcher in the group FG Modellierung, Simulation und Optimierung r
 - **BSc Automation Engineering** at University of Bologna <br/>(Bologna, Italy) <br/>[Sep. 2015-Dec.2018]
 
 # Research Projects
-- PhD Research: _"Structure-preserving model reduction for the efficient computation of exceptional points in thermoacoustic spectra"_ [Project Q03](https://daedalus.berlin/projects/) of [DAEDALUS](https://daedalus.berlin/)
+- PhD Research: _"Structure-preserving model reduction for the efficient computation of exceptional points in thermoacoustic spectra"_ [Project](https://daedalus.berlin/projects/) of [DAEDALUS](https://daedalus.berlin/)
 - MSc Thesis Topic: [_"Koopman Subspace Identification in the Presence of Measurement Noise"_](https://repository.tudelft.nl/islandora/object/uuid:22250d5c-875c-44a9-adf4-d643a6a08dba?collection=education)
 - Second BSc Thesis with Beckhoff Automation: [_"Simulation and Implementation of the Input Shaping Technique for a Flexible Transmission System"_](https://www.researchgate.net/publication/357827921_Simulation_and_Implementation_of_the_Input_Shaping_Technique_for_a_Flexible_Transmission_System) 
 - BSc Thesis _"Comparison of Three Fuzzy Controllers for an Industrial Linear Axis"_
