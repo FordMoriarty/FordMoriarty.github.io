@@ -1,6 +1,8 @@
 <img src="DSC00627.jpg" width="200" align="center">
 
-
+```
+I am a PhD researcher in the group FG Modellierung, Simulation und Optimierung realer Prozesse of [Prof. Dr. Tobias Breiten](https://www.math.tu-berlin.de/?id=214242). My position is given by the DAEDALUS 
+```
 
 # Education
 - [**PhD Researcher**](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_breiten/v_menue/mitarbeiterinnen/alessandro_borghi/home/) at TU Berlin / Institut für Mathematik  <br/>(Berlin, Germany) <br/>[Oct.2021-Present]
