@@ -45,7 +45,7 @@ Bologna in order to receive a double BSc degree in Automation Engineering. <br/>
 ## Tools
 In my current PhD project I make use of **Python**. <br/>
 In all my projects I used **MATLAB and Simulink**. <br/>
-For my double BSc thesis I emplyed **Structured text IEC 61131-3 from TwinCAT**.
+For my double BSc thesis I employed **Structured text IEC 61131-3 from TwinCAT**.
 ## Relevant coursework during my studies
 Control theory for linear systems, optimization in systems and control, nonlinear systems,
 spectral analysis of nonlinear/infinite dimensional systems, filtering and identification, dynamic programming and stochastic control, industrial robotics,
