@@ -47,9 +47,16 @@ In my current PhD project I make use of **Python**. <br/>
 In all my projects I used **MATLAB and Simulink**. <br/>
 For my double BSc thesis I employed **Structured text IEC 61131-3 from TwinCAT**.
 ## Relevant coursework during my studies
-Control theory for linear systems, optimization in systems and control, nonlinear systems,
-spectral analysis of nonlinear/infinite dimensional systems, filtering and identification, dynamic programming and stochastic control, industrial robotics,
-computer architectures, electric drives.
+- Control theory for linear systems 
+- Optimization in systems and control
+- Spectral analysis of nonlinear/infinite dimensional systems
+- Filtering and identification
+- Fault diagnosis and fault tolerant control
+- Nonlinear systems
+- Dynamic programming and stochastic control 
+- Industrial robotics
+- Computer architectures 
+- Electric drives
 
 # Social
 You can find me on [LinkedIn](http://linkedin.com/in/alessandro-borghi-736ab9b4) and [Twitter](https://twitter.com/alleborghi1996)
