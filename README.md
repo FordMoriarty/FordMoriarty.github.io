@@ -29,8 +29,9 @@ for in vitro tests in human joints.
 - Data-driven modelling
 - Bifurcation theory
 - Perturbation theory
+- Randomized numerical linear algebra
+- Probabilistic numerics
 - Koopman operator theory
-- Deep Learning 
 
 # Professional Experience
 - **Business Development Associate** <br/> Worked as a business advisor for the company Visevi Robotics. <br/>([Sparksense](https://sparksense.co/), Zurich, Switzerland) <br/>[Oct.2020-Mar.2021]
