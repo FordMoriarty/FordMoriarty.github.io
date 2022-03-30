@@ -60,7 +60,6 @@ For my double BSc thesis I employed **Structured text IEC 61131-3 from TwinCAT**
 - Nonlinear systems
 - Dynamic programming and stochastic control 
 - Industrial robotics
-- Computer architectures 
 - Electric drives
 
 # Social
