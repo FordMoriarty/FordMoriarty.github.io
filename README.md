@@ -19,9 +19,7 @@ My research has connections with numerical linear algebra, model order reduction
 - **MSc Thesis Topic**: [_"Koopman Subspace Identification in the Presence of Measurement Noise"_](https://repository.tudelft.nl/islandora/object/uuid:22250d5c-875c-44a9-adf4-d643a6a08dba?collection=education): <br/> Computing a matrix approximation of the Koopman operator through a subspace-identification-based data-driven modeling technique robust to measurement noise in the training data.
 - **Second BSc Thesis at Beckhoff Automation**: [_"Simulation and Implementation of the Input Shaping Technique for a Flexible Transmission System"_](https://www.researchgate.net/publication/357827921_Simulation_and_Implementation_of_the_Input_Shaping_Technique_for_a_Flexible_Transmission_System): <br/>
 Simulation of the input shaping technique for a flexible transmission system using MATLAB for residual vibration cancellation. The program was then implemented in TwinCAT for a real test demo, where a PLC would control an electric motor connected to a recirculating ball screw. This would move a flexible beam with, attached at the top, an arbitrary mass.
-- **BSc Thesis**: _"Comparison of Three Fuzzy Controllers for an Industrial Linear Axis"_: <br/> Comparison of three fuzzy controllers, de-
-signed in Simulink, applied to an AC Brush-
-less motor attached to a recirculating ball
+- **BSc Thesis**: _"Comparison of Three Fuzzy Controllers for an Industrial Linear Axis"_: <br/> Comparison of three fuzzy controllers, designed in Simulink, applied to an AC Brushless motor attached to a recirculating ball
 screw. These controllers will then be applied
 to the six axes of a Gough-Stewart platform
 for in vitro tests in human joints.
