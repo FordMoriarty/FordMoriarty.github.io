@@ -25,9 +25,9 @@ to the six axes of a Gough-Stewart platform
 for in vitro tests in human joints.
 
 # Research Interests
-- Computational methods for solving nonlinear eigenvalue problems
-- Identification of exceptional points
+- Computational methods for solving (parametric) nonlinear eigenvalue problems
 - Model reduction methods
+- Identification of exceptional points
 - Data-driven modelling
 - Bifurcation theory
 - Perturbation theory
