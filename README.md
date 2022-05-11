@@ -32,7 +32,6 @@ for in vitro tests in human joints.
 - Bifurcation theory
 - Perturbation theory
 - Randomized numerical linear algebra
-- Probabilistic numerics
 - Koopman operator theory
 
 # Professional Experience
