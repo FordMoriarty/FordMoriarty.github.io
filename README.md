@@ -27,12 +27,12 @@ for in vitro tests in human joints.
 # Research Interests
 - Computational methods for solving (parametric) nonlinear eigenvalue problems
 - Model reduction methods
-- Identification of exceptional points
 - Data-driven modelling
-- Bifurcation theory
-- Perturbation theory
 - Randomized numerical linear algebra
 - Koopman operator theory
+- Bifurcation theory
+- Perturbation theory
+
 
 # Professional Experience
 - **Business Development Associate** <br/> Worked as a business advisor for the company Visevi Robotics. <br/>([Sparksense](https://sparksense.co/), Zurich, Switzerland) <br/>[Oct.2020-Mar.2021]
