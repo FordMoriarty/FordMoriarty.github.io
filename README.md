@@ -1,7 +1,7 @@
-<img src="DSC00627.jpg" width="200" align="right">
+<img src="DSC00627.jpg" width="200" align="center">
 
 
-I am a PhD student in the group FG Modellierung, Simulation und Optimierung realer Prozesse of [Prof. Dr. Tobias Breiten](https://www.math.tu-berlin.de/?id=214242). My position is given by the [DAEDALUS](https://daedalus.berlin/) group. 
+I am a [PhD student](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_breiten/v_menue/mitarbeiterinnen/alessandro_borghi/home/) in the group FG Modellierung, Simulation und Optimierung realer Prozesse of [Prof. Dr. Tobias Breiten](https://www.math.tu-berlin.de/?id=214242). My position is given by the [DAEDALUS](https://daedalus.berlin/) group. 
 The topic of my project deals with the design and implementation of efficient algorithms for solving eigenvalues problems. In particular we are interested on nonlinear eigenvalue problems and the identification of _exceptional points_.
 My research has connections with numerical linear algebra, data-driven model order reduction, control theory, approximation theory, and perturbation theory. 
 
@@ -9,14 +9,14 @@ My research has connections with numerical linear algebra, data-driven model ord
 
 
 # Education
-- [**PhD Researcher**](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_breiten/v_menue/mitarbeiterinnen/alessandro_borghi/home/) at TU Berlin / Institut für Mathematik, [member of DAEDALUS](https://daedalus.berlin/people/alessandro-borghi/#personal-impressiond6c2-33510307-0da2) <br/>(Berlin, Germany) <br/>[Oct.2021-Present]
+- **PhD Researcher** at TU Berlin / Institut für Mathematik, [member of DAEDALUS](https://daedalus.berlin/people/alessandro-borghi/#personal-impressiond6c2-33510307-0da2) <br/>(Berlin, Germany) <br/>[Oct.2021-Present]
 - **MSc Systems & Control** at Delft University of Technology / 3mE Department / DCSC <br/>(Delft, Netherlands) <br/>[Sep.2019-Oct.2021]
 - **BSc Automation Engineering** for double bachelor program with Tongji University <br/>(Shanghai, China) <br/>[Sep. 2016-Jul.2019]
 - **BSc Automation Engineering** at University of Bologna <br/>(Bologna, Italy) <br/>[Sep. 2015-Dec.2018]
 
 # Research Projects
 - **PhD Research**: _"Structure-preserving model reduction for the efficient computation of exceptional points in thermoacoustic spectra"_ [Project](https://daedalus.berlin/projects/) of [DAEDALUS](https://daedalus.berlin/)
-- [**MSc Thesis Topic**](https://www.dcsc.tudelft.nl/~swahls/msc.html): [_"Koopman Subspace Identification in the Presence of Measurement Noise"_](https://repository.tudelft.nl/islandora/object/uuid:22250d5c-875c-44a9-adf4-d643a6a08dba?collection=education) <br/> Computing a matrix approximation of the Koopman operator through a subspace-identification-based data-driven modeling technique robust to measurement noise in the training data.
+- **MSc Thesis Topic**: [_"Koopman Subspace Identification in the Presence of Measurement Noise"_](https://repository.tudelft.nl/islandora/object/uuid:22250d5c-875c-44a9-adf4-d643a6a08dba?collection=education) (see also [here](https://www.dcsc.tudelft.nl/~swahls/msc.html))<br/> Computing a matrix approximation of the Koopman operator through a subspace-identification-based data-driven modeling technique robust to measurement noise in the training data.
 - **Second BSc Thesis at Beckhoff Automation**: [_"Simulation and Implementation of the Input Shaping Technique for a Flexible Transmission System"_](https://www.researchgate.net/publication/357827921_Simulation_and_Implementation_of_the_Input_Shaping_Technique_for_a_Flexible_Transmission_System): <br/>
 Simulation of the input shaping technique for a flexible transmission system using MATLAB for residual vibration cancellation. The program was then implemented in TwinCAT for a real test demo, where a PLC would control an electric motor connected to a recirculating ball screw. This would move a flexible beam with, attached at the top, an arbitrary mass.
 - **BSc Thesis**: _"Comparison of Three Fuzzy Controllers for an Industrial Linear Axis"_: <br/> Comparison of three fuzzy controllers, designed in Simulink, applied to an AC Brushless motor attached to a recirculating ball
@@ -39,7 +39,7 @@ for in vitro tests in human joints.
 - **Internship project (R&D)** <br/> The project consisted
 in the design of an active vibration compensation (for residual vibrations)
 process using the input shaping technique implemented with TwinCAT. <br/>(Beckhoff Automation Co., Ltd., Shanghai, China) <br/>[Mar.2019-Jul.2019]
-- **Exchange student ([AlmaTong Project](https://corsi.unibo.it/2cycle/AutomationEngineering/opportunities-multiple-degree-programme))** <br/> Studied one year systems and control subjects at Tongji University, thanks
+- **Exchange student** ([AlmaTong Project](https://corsi.unibo.it/2cycle/AutomationEngineering/opportunities-multiple-degree-programme)) <br/> Studied one year systems and control subjects at Tongji University, thanks
 to the AlmaTong exchange project with the University of
 Bologna in order to receive a double BSc degree in Automation Engineering. <br/>(Tongji University, Shanghai, China) <br/>[Sep. 2016 – Jul. 2017] 
 
