@@ -1,4 +1,8 @@
-<img src="DSC00627.jpg" width="200" align="left"> ```np.linalg.solve(A,I)```<br />
+<img src="DSC00627.jpg" width="200" align="center"> 
+```np.linalg.solve(A,I)```<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
