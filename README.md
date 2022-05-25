@@ -1,15 +1,6 @@
-<img src="DSC00627.jpg" width="200" align="center"> 
+<img src="DSC00627.jpg" width="200" align="center"> <br />
 ```np.linalg.solve(A,I)```<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
 
 I am a [PhD student](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_breiten/v_menue/mitarbeiterinnen/alessandro_borghi/home/) in the group FG Modellierung, Simulation und Optimierung realer Prozesse of [Prof. Dr. Tobias Breiten](https://www.math.tu-berlin.de/?id=214242). My position is given by the [DAEDALUS](https://daedalus.berlin/) group. 
 The topic of my project deals with the design and implementation of efficient algorithms for solving nonlinear eigenvalue problems. <!--In particular we are interested on nonlinear eigenvalue problems and the identification of _exceptional points_.-->
