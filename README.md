@@ -1,7 +1,6 @@
 <img src="DSC00627.jpg" width="200" align="center"> <br />
 
-<br />
-<br />
+
 $A^{-1}= $ ```np.linalg.solve(A,I)```<br />
 
 
