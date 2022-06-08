@@ -13,7 +13,7 @@ $$A^{-1}= $$ ```np.linalg.solve(A,I)```<br />
 
 
 I am a [PhD student](https://daedalus.berlin/people/alessandro-borghi/) in the group FG Modellierung, Simulation und Optimierung realer Prozesse of [Prof. Dr. Tobias Breiten](https://www.math.tu-berlin.de/?id=214242). My position is given by the [DAEDALUS](https://daedalus.berlin/) group. 
-The topic of my project deals with the design and implementation of efficient algorithms for solving nonlinear eigenvalue problems. <!--In particular we are interested on nonlinear eigenvalue problems and the identification of _exceptional points_.-->
+The topic of my project deals with the design and implementation of efficient algorithms for solving (parametric) nonlinear eigenvalue problems. <!--In particular we are interested on nonlinear eigenvalue problems and the identification of _exceptional points_.-->
 My research has connections with _numerical linear algebra_, _data-driven model order reduction_, _control theory_, _approximation theory_, and _perturbation theory_. 
 
 <!--My research focuses on the design and implementation of algorithms for solving nonlinar eigenvalue problems. In particular I am interested on the identification of _exceptional points_. -->
@@ -36,14 +36,10 @@ to the six axes of a Gough-Stewart platform
 for in vitro tests in human joints.
 
 # Research Interests
-- Computational methods for solving (parametric) nonlinear eigenvalue problems
-- Model reduction methods
-- Data-driven modelling
+- Numerical Linear Algebra
+- Data-Driven Model Order Reduction
 - Approximation theory
-- Randomized numerical linear algebra
 - Koopman operator theory
-- Bifurcation theory
-- Perturbation theory
 
 
 # Professional Experience
