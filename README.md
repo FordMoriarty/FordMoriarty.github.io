@@ -40,6 +40,7 @@ for in vitro tests in human joints.
 - Data-Driven Model Order Reduction
 - Approximation theory
 - Koopman operator theory
+- Random matrix theory
 
 
 # Professional Experience
