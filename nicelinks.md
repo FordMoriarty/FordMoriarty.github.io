@@ -8,6 +8,7 @@
           src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js">
   </script>
 </head>
+
 # For Academics
 _"You need to talk to people!"_. This was an advice that was given me twice at the start of my PhD. Well I did it. In the following there are some interesting links that I got by talking to people:
 
