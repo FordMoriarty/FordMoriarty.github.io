@@ -72,7 +72,7 @@ For my double BSc thesis I employed **Structured text IEC 61131-3 from TwinCAT**
 You can find me on [LinkedIn](http://linkedin.com/in/alessandro-borghi-736ab9b4) and [Twitter](https://twitter.com/alleborghi1996)
 
 ### Note
-If you want to see cool fractals look [here](interestingfigures.md) and for cool links look [here!]()
+If you want to see cool fractals look [here](interestingfigures.md) and for cool links look [here!](nicelinks.md)
 
 <!-- ## Welcome to GitHub Pages
 
