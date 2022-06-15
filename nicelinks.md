@@ -1,4 +1,4 @@
-## Interesting Links
+# Interesting Links
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
@@ -9,7 +9,7 @@
   </script>
 </head>
 
-# For Academics
+## For Academics
 _"You need to talk to people!"_. This was an advice that was given me twice at the start of my PhD. Well I did it. In the following there are some interesting links that I got by talking to people:
 
 - A very nice website for interesting math topics is the [blog of Terence Tao](https://terrytao.wordpress.com/). In particular I would point out the section for [career advice](https://terrytao.wordpress.com/career-advice/)
