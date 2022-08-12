@@ -68,8 +68,8 @@ For my double BSc thesis I employed **Structured text IEC 61131-3 from TwinCAT**
 - Industrial robotics
 - Electric drives
 
-# Social
-You can find me on [LinkedIn](http://linkedin.com/in/alessandro-borghi-736ab9b4) and [Twitter](https://twitter.com/alleborghi1996)
+<!-- # Social
+You can find me on [LinkedIn](http://linkedin.com/in/alessandro-borghi-736ab9b4) and [Twitter](https://twitter.com/alleborghi1996) -->
 
 ### Note
 For my CV click [here](CV_Summ.pdf).
