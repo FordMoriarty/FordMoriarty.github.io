@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Alessandro Borghi
-logo: "DSC00627.jpg"
+logo: <img src="DSC00627.jpg" width="150"> 
 description: <a href="CV_Summ.pdf">CV </a> <br>
     <a href="http://linkedin.com/in/alessandro-borghi-736ab9b4">LinkedIn </a>
     <br>
