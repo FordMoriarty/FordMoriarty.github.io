@@ -1,4 +1,4 @@
-<img src="DSC00627.jpg" width="200" align="center"> <br />
+<!-- <img src="DSC00627.jpg" width="200" align="center"> <br /> -->
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
