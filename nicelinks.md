@@ -18,4 +18,5 @@ _"You need to talk to people!"_. This was an advice given me twice at the start 
 - Another interesting blog is the one from Nick Trefethen which got my attention thanks to [this page](https://trefethen.net/2018/12/06/advice-for-an-applied-math-talk/)  
 - I find some good reads in this [webpage](https://www.lesswrong.com/)
 - A very good summary of theoretical pillars in numerical linear algebra can be found in the website of [Nick Higham](https://nhigham.com/2022/05/18/the-big-six-matrix-factorizations/)
+- For those of you interested in model order reduction, there is a very well designed Python library called [pyMOR](https://pymor.org/). For more information, and if you want to meet the developers, check out the yearly [pyMOR school](https://2022.school.pymor.org/)
 
