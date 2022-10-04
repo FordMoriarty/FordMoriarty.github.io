@@ -20,7 +20,7 @@ My research has connections with _data-driven reduced order modeling_, _numerica
 
 
 # Education
-- **PhD Researcher** at TU Berlin / Institut für Mathematik, [member of DAEDALUS](https://daedalus.berlin/people/alessandro-borghi/) <br/>(Berlin, Germany) <br/>[Oct.2021-Present]
+- **PhD Researcher** at TU Berlin / Institut für Mathematik, [member of DAEDALUS](https://daedalus.berlin/people/alessandro-borghi) <br/>(Berlin, Germany) <br/>[Oct.2021-Present]
 - **MSc Systems & Control** at Delft University of Technology / 3mE Department / DCSC <br/>(Delft, Netherlands) <br/>[Sep.2019-Oct.2021]
 - **BSc Automation Engineering** for double bachelor program with Tongji University <br/>(Shanghai, China) <br/>[Sep. 2016-Jul.2019]
 - **BSc Automation Engineering** at University of Bologna <br/>(Bologna, Italy) <br/>[Sep. 2015-Dec.2018]
