@@ -12,7 +12,7 @@
 <!-- $$A^{-1}= $$ ```np.linalg.solve(A,I)```<br /> -->
 
 # Brief Description
-I am a [PhD student](https://daedalus.berlin/people/alessandro-borghi/) in the group FG Modellierung, Simulation und Optimierung realer Prozesse of [Prof. Dr. Tobias Breiten](https://www.math.tu-berlin.de/?id=214242). My position is given by the [DAEDALUS](https://daedalus.berlin/) group. 
+I am a [PhD student](https://www.tu.berlin/en/fgmso/about/team/alessandro-borghi) in the group FG Modellierung, Simulation und Optimierung realer Prozesse of [Prof. Dr. Tobias Breiten](https://www.tu.berlin/en/fgmso/about/team/tobias-breiten). My position is given by the [DAEDALUS](https://daedalus.berlin/) group. 
 The topic of my project deals with the design and implementation of efficient algorithms for solving (parametric) nonlinear eigenvalue problems. <!--In particular we are interested on nonlinear eigenvalue problems and the identification of _exceptional points_.-->
 My research has connections with _data-driven reduced order modeling_, _numerical linear algebra_, _control theory_, and _approximation theory_. 
 
@@ -20,7 +20,7 @@ My research has connections with _data-driven reduced order modeling_, _numerica
 
 
 # Education
-- **PhD Researcher** at TU Berlin / Institut für Mathematik, [member of DAEDALUS](https://daedalus.berlin/people/alessandro-borghi/#personal-impressiond6c2-33510307-0da2) <br/>(Berlin, Germany) <br/>[Oct.2021-Present]
+- **PhD Researcher** at TU Berlin / Institut für Mathematik, [member of DAEDALUS](https://daedalus.berlin/people/alessandro-borghi/) <br/>(Berlin, Germany) <br/>[Oct.2021-Present]
 - **MSc Systems & Control** at Delft University of Technology / 3mE Department / DCSC <br/>(Delft, Netherlands) <br/>[Sep.2019-Oct.2021]
 - **BSc Automation Engineering** for double bachelor program with Tongji University <br/>(Shanghai, China) <br/>[Sep. 2016-Jul.2019]
 - **BSc Automation Engineering** at University of Bologna <br/>(Bologna, Italy) <br/>[Sep. 2015-Dec.2018]
