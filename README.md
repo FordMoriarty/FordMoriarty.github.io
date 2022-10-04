@@ -73,6 +73,6 @@ You can find me on [LinkedIn](http://linkedin.com/in/alessandro-borghi-736ab9b4)
 
 ### Note
 For my CV click [here](CV_Summ.pdf).
-If you want to see cool fractals look [here](interestingfigures.md) and for cool links look [here!](nicelinks.md)
+For cool links look [here!](nicelinks.md)
 
 
