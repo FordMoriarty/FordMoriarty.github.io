@@ -13,7 +13,7 @@
 _"You need to talk to people!"_. This was an advice given me twice at the start of my PhD. Well I did it. In the following there are some interesting links that I got by talking to people:
 
 - A very nice website for interesting math topics is the [blog of Terence Tao](https://terrytao.wordpress.com/). In particular I would point out the section for [career advice](https://terrytao.wordpress.com/career-advice/)
-- This [website](https://castel.dev/) is the homepage of Gilles Castel, a mathematics PhD student at KU Leuven specializing in $$\LaTeX$$ black magic.
+- This [website](https://castel.dev/) is the homepage of Gilles Castel, a mathematics PhD student at KU Leuven specializing in LaTeX black magic.
 - If you want to know who supervised your supervisor check out the [mathematical genealogical tree](https://www.mathgenealogy.org/index.php)
 - Another interesting blog is the one from Nick Trefethen which got my attention thanks to [this page](https://trefethen.net/2018/12/06/advice-for-an-applied-math-talk/)  
 - I find some good reads in this [webpage](https://www.lesswrong.com/)
