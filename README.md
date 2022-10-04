@@ -14,7 +14,7 @@
 # Brief Description
 I am a [PhD student](https://daedalus.berlin/people/alessandro-borghi/) in the group FG Modellierung, Simulation und Optimierung realer Prozesse of [Prof. Dr. Tobias Breiten](https://www.math.tu-berlin.de/?id=214242). My position is given by the [DAEDALUS](https://daedalus.berlin/) group. 
 The topic of my project deals with the design and implementation of efficient algorithms for solving (parametric) nonlinear eigenvalue problems. <!--In particular we are interested on nonlinear eigenvalue problems and the identification of _exceptional points_.-->
-My research has connections with _numerical linear algebra_, _data-driven model order reduction_, _control theory_, and _approximation theory_. 
+My research has connections with _data-driven reduced order modeling_, _numerical linear algebra_, _control theory_, and _approximation theory_. 
 
 <!--My research focuses on the design and implementation of algorithms for solving nonlinar eigenvalue problems. In particular I am interested on the identification of _exceptional points_. -->
 
