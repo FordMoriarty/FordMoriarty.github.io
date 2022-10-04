@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: benbalter/retlab
 title: Alessandro Borghi
 logo: "DSC00627.jpg"
 description: <a href="CV_Summ.pdf">CV </a> <br>
