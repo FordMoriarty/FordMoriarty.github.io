@@ -1,6 +1,6 @@
 #theme: jekyll-theme-minimal
 #remote_theme: benbalter/retlab
-remote_theme: coogie/oscailte
+remote_theme: epidrome/cover-card
 title: Alessandro Borghi
 logo: "DSC00627.jpg"
 description: <a href="CV_Summ.pdf">CV </a> <br>
