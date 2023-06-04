@@ -71,8 +71,13 @@ For my double BSc thesis I employed **Structured text IEC 61131-3 from TwinCAT**
 <!-- # Social
 You can find me on [LinkedIn](http://linkedin.com/in/alessandro-borghi-736ab9b4) and [Twitter](https://twitter.com/alleborghi1996) -->
 
-### Note
+### Notes
 For my CV click [here](CV_Summ.pdf).
-For cool links look [here!](nicelinks.md)
+For cool links look [here!](nicelinks.md).
+
+### Conferences and summer schools
+- [pyMOR summer school](https://2022.school.pymor.org)
+- [Nonlinear model order reduction for control](https://personal.math.vt.edu/jborggaa/nlromc/index.html)
+
 
 
