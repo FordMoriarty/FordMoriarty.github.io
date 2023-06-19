@@ -76,8 +76,10 @@ For my CV click [here](CV_Summ.pdf).
 For cool links look [here!](nicelinks.md).
 
 ### Conferences and summer schools
-- [pyMOR summer school](https://2022.school.pymor.org)
-- [Nonlinear model order reduction for control](https://personal.math.vt.edu/jborggaa/nlromc/index.html)
+- [pyMOR summer school](https://2022.school.pymor.org) -- "Model Order Reduction and Contour Integral Methods for Parametric Eigenvalue Problems"<br/>
+- [YMMOR2023 workshop](https://www.uni-ulm.de/mawi/institut-fuer-numerische-mathematik/forschung/ymmor-workshop-2023/) -- "H2 optimal model reduction for general domains"<br/>
+- [Nonlinear model order reduction for control](https://personal.math.vt.edu/jborggaa/nlromc/index.html) -- "H2 optimal model reduction for general domains"<br/>
+- [ILAS 2023](http://ilas2023.es/) -- "H2 optimal model reduction for general domains"<br/>
 
 
 
