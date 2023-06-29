@@ -32,6 +32,6 @@ My research has connections with _data-driven reduced order modeling_, _numerica
 - Koopman operator theory
 - Random matrix theory
 
-
+For a more detailed description of my experience click [here!](experience.md)
 
 
