@@ -12,7 +12,7 @@
 <!-- $$A^{-1}= $$ ```np.linalg.solve(A,I)```<br /> -->
 
 
-I am a [PhD student](https://www.tu.berlin/en/fgmso/alessandro-borghi) in the group [FG Modellierung, Simulation und Optimierung realer Prozesse](https://www.tu.berlin/en/fgmso) of [Prof. Dr. Tobias Breiten](https://www.tu.berlin/en/fgmso/tobias-breiten). My position is given by the DFG as part of the [DAEDALUS](https://daedalus.berlin/) group. 
+I am a [phd student](https://www.tu.berlin/en/fgmso/alessandro-borghi) in the group [FG Modellierung, Simulation und Optimierung realer Prozesse](https://www.tu.berlin/en/fgmso) of [Prof. Dr. Tobias Breiten](https://www.tu.berlin/en/fgmso/tobias-breiten). My position is given by the DFG as part of the [daedalus](https://daedalus.berlin/) group. 
 The topic of my project deals with the development of cool algorithms for making hard models computationally accessible.
 My research has connections with _data-driven reduced order modeling_, _numerical linear algebra_, _control theory_, and _approximation theory_. 
 
@@ -20,10 +20,10 @@ My research has connections with _data-driven reduced order modeling_, _numerica
 
 
 # Education
-- **PhD student** at TU Berlin / Institut für Mathematik, [member of DAEDALUS](https://daedalus.berlin/people/alessandro-borghi) <br/>(Berlin, Germany) <br/>[Oct.2021-Present]
-- **MSc systems & control** at Delft University of Technology / 3mE Department / DCSC <br/>(Delft, Netherlands) <br/>[Sep.2019-Oct.2021]
-- **BSc automation engineering** for double bachelor program with Tongji University <br/>(Shanghai, China) <br/>[Sep. 2016-Jul.2019]
-- **BSc automation engineering** at University of Bologna <br/>(Bologna, Italy) <br/>[Sep. 2015-Dec.2018]
+- **phd student** at TU Berlin / Institut für Mathematik, [member of daedalus](https://daedalus.berlin/people/alessandro-borghi) <br/>(Berlin, Germany) <br/>[Oct.2021-Present]
+- **master in systems & control** at Delft university of technology / 3mE department / DCSC <br/>(Delft, Netherlands) <br/>[Sep.2019-Oct.2021]
+- **bachelor in automation engineering** for double bachelor program with Tongji university <br/>(Shanghai, China) <br/>[Sep. 2016-Jul.2019]
+- **bachelor automation engineering** at university of Bologna <br/>(Bologna, Italy) <br/>[Sep. 2015-Dec.2018]
 
 For a more detailed description of my experience click [here!](experience.md)
 
