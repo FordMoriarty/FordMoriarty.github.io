@@ -20,19 +20,19 @@ My research has connections with _data-driven reduced order modeling_, _numerica
 
 
 # Education
-- **PhD Researcher** at TU Berlin / Institut für Mathematik, [member of DAEDALUS](https://daedalus.berlin/people/alessandro-borghi) <br/>(Berlin, Germany) <br/>[Oct.2021-Present]
-- **MSc Systems & Control** at Delft University of Technology / 3mE Department / DCSC <br/>(Delft, Netherlands) <br/>[Sep.2019-Oct.2021]
-- **BSc Automation Engineering** for double bachelor program with Tongji University <br/>(Shanghai, China) <br/>[Sep. 2016-Jul.2019]
-- **BSc Automation Engineering** at University of Bologna <br/>(Bologna, Italy) <br/>[Sep. 2015-Dec.2018]
+- **PhD student** at TU Berlin / Institut für Mathematik, [member of DAEDALUS](https://daedalus.berlin/people/alessandro-borghi) <br/>(Berlin, Germany) <br/>[Oct.2021-Present]
+- **MSc systems & control** at Delft University of Technology / 3mE Department / DCSC <br/>(Delft, Netherlands) <br/>[Sep.2019-Oct.2021]
+- **BSc automation engineering** for double bachelor program with Tongji University <br/>(Shanghai, China) <br/>[Sep. 2016-Jul.2019]
+- **BSc automation engineering** at University of Bologna <br/>(Bologna, Italy) <br/>[Sep. 2015-Dec.2018]
 
 For a more detailed description of my experience click [here!](experience.md)
 
-# Research Interests
-- Numerical Linear Algebra
-- Data-Driven Model Order Reduction
-- Approximation theory
+# Research interests
+- numerical linear algebra
+- data-driven model order reduction
+- approximation theory
 - Koopman operator theory
-- Random matrix theory
+- random matrix theory
 
 
 
