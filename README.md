@@ -11,8 +11,9 @@
 
 <!-- $$A^{-1}= $$ ```np.linalg.solve(A,I)```<br /> -->
 
+
 I am a [PhD student](https://www.tu.berlin/en/fgmso/alessandro-borghi) in the group [FG Modellierung, Simulation und Optimierung realer Prozesse](https://www.tu.berlin/en/fgmso) of [Prof. Dr. Tobias Breiten](https://www.tu.berlin/en/fgmso/tobias-breiten). My position is given by the [DAEDALUS](https://daedalus.berlin/) group. 
-The topic of my project deals with the design and implementation of efficient algorithms for solving (parametric) nonlinear eigenvalue problems. <!--In particular we are interested on nonlinear eigenvalue problems and the identification of _exceptional points_.-->
+The topic of my project deals with the development of cool algorithms for making hard models computationally accessible.
 My research has connections with _data-driven reduced order modeling_, _numerical linear algebra_, _control theory_, and _approximation theory_. 
 
 <!--My research focuses on the design and implementation of algorithms for solving nonlinar eigenvalue problems. In particular I am interested on the identification of _exceptional points_. -->
