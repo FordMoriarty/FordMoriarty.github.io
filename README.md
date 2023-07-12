@@ -25,6 +25,8 @@ My research has connections with _data-driven reduced order modeling_, _numerica
 - **BSc Automation Engineering** for double bachelor program with Tongji University <br/>(Shanghai, China) <br/>[Sep. 2016-Jul.2019]
 - **BSc Automation Engineering** at University of Bologna <br/>(Bologna, Italy) <br/>[Sep. 2015-Dec.2018]
 
+For a more detailed description of my experience click [here!](experience.md)
+
 # Research Interests
 - Numerical Linear Algebra
 - Data-Driven Model Order Reduction
@@ -32,6 +34,6 @@ My research has connections with _data-driven reduced order modeling_, _numerica
 - Koopman operator theory
 - Random matrix theory
 
-For a more detailed description of my experience click [here!](experience.md)
+
 
 
