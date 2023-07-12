@@ -16,12 +16,20 @@ to the AlmaTong exchange project with the University of
 Bologna in order to receive a double BSc degree in Automation Engineering. <br/>(Tongji University, Shanghai, China) <br/>[Sep. 2016 – Jul. 2017] 
 
 
+# Conferences and summer schools
+- [pyMOR summer school](https://2022.school.pymor.org) -- talk: "Model Order Reduction and Contour Integral Methods for Parametric Eigenvalue Problems"<br/>
+- [MORE 2022](https://more.sciencesconf.org/) -- part of the co-organizing team
+- [YMMOR2023 workshop](https://www.uni-ulm.de/mawi/institut-fuer-numerische-mathematik/forschung/ymmor-workshop-2023/) -- talk: "H2 optimal model reduction for general domains"<br/>
+- [Nonlinear model order reduction for control](https://personal.math.vt.edu/jborggaa/nlromc/index.html) -- <br/>
+- [ILAS 2023](http://ilas2023.es/) -- <br/>
+
+
 # Knowledge
-## Tools
+### Tools
 In my current PhD project I make use of **Python**. <br/>
 In all my projects I used **MATLAB and Simulink**. <br/>
 For my double BSc thesis I employed **Structured text IEC 61131-3 from TwinCAT**.
-## Relevant coursework during my studies
+### Relevant coursework during my studies
 - Control theory for linear systems 
 - Optimization in systems and control
 - Spectral analysis of nonlinear/infinite dimensional systems
@@ -40,13 +48,6 @@ You can find me on [LinkedIn](http://linkedin.com/in/alessandro-borghi-736ab9b4)
 
 
 
-# Conferences and summer schools
-- [pyMOR summer school](https://2022.school.pymor.org) -- talk: "Model Order Reduction and Contour Integral Methods for Parametric Eigenvalue Problems"<br/>
-- [MORE 2022](https://more.sciencesconf.org/) -- part of the co-organizing team
-- [YMMOR2023 workshop](https://www.uni-ulm.de/mawi/institut-fuer-numerische-mathematik/forschung/ymmor-workshop-2023/) -- talk: "H2 optimal model reduction for general domains"<br/>
-- [Nonlinear model order reduction for control](https://personal.math.vt.edu/jborggaa/nlromc/index.html) -- <br/>
-- [ILAS 2023](http://ilas2023.es/) -- <br/>
-
-### Notes
+<!--### Notes
 For my CV click [here](CV_Summ.pdf).
-For cool links look [here!](nicelinks.md).
+For cool links look [here!](nicelinks.md).-->
