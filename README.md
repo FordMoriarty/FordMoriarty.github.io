@@ -42,6 +42,7 @@ For a more detailed description of my experience click [here!](experience.md)
 - [Nonlinear model order reduction for control](https://personal.math.vt.edu/jborggaa/nlromc/index.html), blacksburg (va), united states -- presentation <br/>
 - [ILAS 2023](http://ilas2023.es/), madrid, spain -- invited talk <br/>
 
-
+# Memberships
+- mentee at [LeadTheFuture](https://www.leadthefuture.tech/)
 
 
