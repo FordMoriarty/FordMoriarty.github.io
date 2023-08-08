@@ -16,14 +16,6 @@ to the almatong exchange project with the university of
 Bologna in order to receive a double BSc degree in automation engineering. <br/>(Tongji university, Shanghai, China) <br/>[Sep. 2016 – Jul. 2017] 
 
 
-# Conferences and summer schools
-- [pyMOR summer school](https://2022.school.pymor.org), magdeburg, germany -- talk: "Model Order Reduction and Contour Integral Methods for Parametric Eigenvalue Problems"<br/>
-- [MORE 2022](https://more.sciencesconf.org/), berlin, germany -- part of the co-organizing team
-- [YMMOR2023 workshop](https://www.uni-ulm.de/mawi/institut-fuer-numerische-mathematik/forschung/ymmor-workshop-2023/), ulm, germany -- talk: "H2 optimal model reduction for general domains"<br/>
-- [Nonlinear model order reduction for control](https://personal.math.vt.edu/jborggaa/nlromc/index.html), blacksburg (va), united states -- <br/>
-- [ILAS 2023](http://ilas2023.es/), madrid, spain -- <br/>
-
-
 # Knowledge
 ### Tools
 In my current PhD project I make use of **Python**. <br/>
