@@ -35,7 +35,7 @@ For a more detailed description of my experience click [here!](experience.md)
 - random matrix theory
 
 
-##Talks and Conferences
+## Talks and Conferences
 - [pyMOR summer school](https://2022.school.pymor.org), magdeburg, germany -- presentation<br/>
 - [MORE 2022](https://more.sciencesconf.org/), berlin, germany -- part of the co-organizing team
 - [YMMOR2023 workshop](https://www.uni-ulm.de/mawi/institut-fuer-numerische-mathematik/forschung/ymmor-workshop-2023/), ulm, germany -- presentation <br/>
