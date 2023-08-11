@@ -11,7 +11,7 @@
 
 <!-- $$A^{-1}= $$ ```np.linalg.solve(A,I)```<br /> -->
 
-
+# About me
 I am a [PhD student](https://www.tu.berlin/en/fgmso/alessandro-borghi) in the group [FG Modellierung, Simulation und Optimierung realer Prozesse](https://www.tu.berlin/en/fgmso) of [Prof. Dr. Tobias Breiten](https://www.tu.berlin/en/fgmso/tobias-breiten). My position is given by the DFG as part of the [daedalus](https://daedalus.berlin/) group. 
 The topic of my project deals with the development of cool algorithms for making hard models computationally accessible.
 My research has connections with _data-driven reduced order modeling_, _numerical linear algebra_, _control theory_, and _approximation theory_. 
