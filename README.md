@@ -21,9 +21,9 @@ My research has connections with _data-driven reduced order modeling_, _numerica
 
 ## Education
 - **PhD student** at TU Berlin / Institut für Mathematik, [member of daedalus](https://daedalus.berlin/people/alessandro-borghi) <br/>(Berlin, Germany) <br/>[Oct.2021-Present]
-- **master in systems & control** at Delft university of technology / 3mE department / DCSC <br/>(Delft, Netherlands) <br/>[Sep.2019-Oct.2021]
-- **bachelor in automation engineering** for double bachelor program with Tongji university <br/>(Shanghai, China) <br/>[Sep. 2016-Jul.2019]
-- **bachelor automation engineering** at university of Bologna <br/>(Bologna, Italy) <br/>[Sep. 2015-Dec.2018]
+- **MSc in systems & control** at Delft university of technology / 3mE department / DCSC <br/>(Delft, Netherlands) <br/>[Sep.2019-Oct.2021]
+- **BSc in automation engineering** for double bachelor program with Tongji university <br/>(Shanghai, China) <br/>[Sep. 2016-Jul.2019]
+- **BSc automation engineering** at university of Bologna <br/>(Bologna, Italy) <br/>[Sep. 2015-Dec.2018]
 
 For a more detailed description of my experience click [here!](experience.md)
 
@@ -36,11 +36,11 @@ For a more detailed description of my experience click [here!](experience.md)
 
 
 ## Talks and Conferences
-- [pyMOR summer school](https://2022.school.pymor.org), magdeburg, germany -- presentation<br/>
-- [MORE 2022](https://more.sciencesconf.org/), berlin, germany -- part of the co-organizing team
-- [YMMOR2023 workshop](https://www.uni-ulm.de/mawi/institut-fuer-numerische-mathematik/forschung/ymmor-workshop-2023/), ulm, germany -- presentation <br/>
-- [Nonlinear model order reduction for control](https://personal.math.vt.edu/jborggaa/nlromc/index.html), blacksburg (va), united states -- presentation <br/>
-- [ILAS 2023](http://ilas2023.es/), madrid, spain -- invited talk <br/>
+- [pyMOR summer school](https://2022.school.pymor.org), Magdeburg, Germany -- presentation<br/>
+- [MORE 2022](https://more.sciencesconf.org/), Berlin, Germany -- part of the co-organizing team
+- [YMMOR2023 workshop](https://www.uni-ulm.de/mawi/institut-fuer-numerische-mathematik/forschung/ymmor-workshop-2023/), Ulm, Germany -- presentation <br/>
+- [Nonlinear model order reduction for control](https://personal.math.vt.edu/jborggaa/nlromc/index.html), Blacksburg (VA), United states -- presentation <br/>
+- [ILAS 2023](http://ilas2023.es/), Madrid, Spain -- invited talk <br/>
 
 ## Memberships
 - mentee at [LeadTheFuture](https://www.leadthefuture.tech/)
