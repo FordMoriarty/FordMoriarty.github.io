@@ -49,7 +49,7 @@ For a more detailed description of my experience click [here](experience.md)
 - [pyMOR summer school](https://2022.school.pymor.org), Magdeburg, Germany -- presentation<br/>
 - [MORE 2022](https://more.sciencesconf.org/), Berlin, Germany -- part of the co-organizing team
 - [YMMOR2023 workshop](https://www.uni-ulm.de/mawi/institut-fuer-numerische-mathematik/forschung/ymmor-workshop-2023/), Ulm, Germany -- presentation <br/>
-- Visiting student @VirginiaTech to the group of [Serkan Gugercin](https://gugercin.math.vt.edu), Blacksburg (VA), United states
+- Visiting student @VirginiaTech in the group of [Serkan Gugercin](https://gugercin.math.vt.edu), Blacksburg (VA), United states
 - [Nonlinear model order reduction for control](https://personal.math.vt.edu/jborggaa/nlromc/index.html), Blacksburg (VA), United states -- presentation <br/>
 - [ILAS 2023](http://ilas2023.es/), Madrid, Spain -- invited talk <br/>
 
