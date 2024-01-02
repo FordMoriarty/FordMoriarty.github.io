@@ -25,7 +25,17 @@ My research has connections with _data-driven reduced order modeling_, _numerica
 - **BSc in automation engineering** for double bachelor program with Tongji university <br/>(Shanghai, China) <br/>[Sep. 2016-Jul.2019]
 - **BSc automation engineering** at university of Bologna <br/>(Bologna, Italy) <br/>[Sep. 2015-Dec.2018]
 
-For a more detailed description of my experience click [here!](experience.md)
+## Professional experience
+- **business development associate** <br/> Worked as a business advisor for the company Visevi Robotics. <br/>([sparksense](https://sparksense.co/), Zurich, Switzerland) <br/>[Oct.2020-Mar.2021]
+- **internship project (r&d)** <br/> The project consisted
+in the design of an active vibration compensation (for residual vibrations)
+process using the input shaping technique implemented with TwinCAT. <br/>(Beckhoff automation Co., Ltd., Shanghai, China) <br/>[Mar.2019-Jul.2019]
+- **exchange student** ([almatong project](https://corsi.unibo.it/2cycle/AutomationEngineering/opportunities-multiple-degree-programme)) <br/> Studied one year systems and control subjects at Tongji university, thanks
+to the almatong exchange project with the university of
+Bologna in order to receive a double BSc degree in automation engineering. <br/>(Tongji university, Shanghai, China) <br/>[Sep. 2016 – Jul. 2017] 
+
+
+For a more detailed description of my experience click [here](experience.md)
 
 ## Research interests
 - numerical linear algebra
@@ -35,10 +45,11 @@ For a more detailed description of my experience click [here!](experience.md)
 - random matrix theory
 
 
-## Talks and Conferences
+## Talks, Conferences & Visits
 - [pyMOR summer school](https://2022.school.pymor.org), Magdeburg, Germany -- presentation<br/>
 - [MORE 2022](https://more.sciencesconf.org/), Berlin, Germany -- part of the co-organizing team
 - [YMMOR2023 workshop](https://www.uni-ulm.de/mawi/institut-fuer-numerische-mathematik/forschung/ymmor-workshop-2023/), Ulm, Germany -- presentation <br/>
+- Visiting student @VirginiaTech to the group of [Serkan Gugercin](https://gugercin.math.vt.edu), Blacksburg (VA), United states
 - [Nonlinear model order reduction for control](https://personal.math.vt.edu/jborggaa/nlromc/index.html), Blacksburg (VA), United states -- presentation <br/>
 - [ILAS 2023](http://ilas2023.es/), Madrid, Spain -- invited talk <br/>
 
