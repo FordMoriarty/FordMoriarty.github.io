@@ -6,14 +6,6 @@ In this project we simulated the input shaping technique for a flexible transmis
 - **bachelor thesis**: _"Comparison of three fuzzy controllers for an industrial linear Aaxis"_: <br/> Here we compared three fuzzy logic controllers applied to an AC Brushless motor attached to a recirculating ball screw. The controllers were designed in Simulink and applied to the electric drives through TwinCAT. These controllers would then be applied to the six axes of a Gough-Stewart platform for in vitro tests on human joints.
 
 
-# Professional experience
-- **business development associate** <br/> Worked as a business advisor for the company Visevi Robotics. <br/>([sparksense](https://sparksense.co/), Zurich, Switzerland) <br/>[Oct.2020-Mar.2021]
-- **internship project (r&d)** <br/> The project consisted
-in the design of an active vibration compensation (for residual vibrations)
-process using the input shaping technique implemented with TwinCAT. <br/>(Beckhoff automation Co., Ltd., Shanghai, China) <br/>[Mar.2019-Jul.2019]
-- **exchange student** ([almatong project](https://corsi.unibo.it/2cycle/AutomationEngineering/opportunities-multiple-degree-programme)) <br/> Studied one year systems and control subjects at Tongji university, thanks
-to the almatong exchange project with the university of
-Bologna in order to receive a double BSc degree in automation engineering. <br/>(Tongji university, Shanghai, China) <br/>[Sep. 2016 – Jul. 2017] 
 
 
 # Knowledge
