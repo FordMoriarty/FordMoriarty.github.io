@@ -35,8 +35,6 @@ to the almatong exchange project with the university of
 Bologna in order to receive a double BSc degree in automation engineering. <br/>(Tongji university, Shanghai, China) <br/>[Sep. 2016 – Jul. 2017] 
 
 
-For a more detailed description of my experience click [here](experience.md)
-
 ## Research interests
 - numerical linear algebra
 - data-driven model order reduction
