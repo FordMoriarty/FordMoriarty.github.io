@@ -1,6 +1,6 @@
 # Research projects
 ## Papers and preprints
-- *H2 optimal rational approximation on general domains*, Alessandro Borghi and Tobias Breiten, Adv Comput Math 50, 28 (2024). [doi](https://doi.org/10.1007/s10444-024-10125-8) <br/>
+- *H2 optimal rational approximation on general domains*, Alessandro Borghi and Tobias Breiten, Adv Comput Math 50, 28 (2024). [doi 10.1007/s10444-024-10125-8](https://doi.org/10.1007/s10444-024-10125-8). <br/>
 [ArXiv](https://arxiv.org/abs/2305.01511) and [code](https://github.com/aaborghi/H2-arbitrary-domains) are also freely available.
 - *Match-based solution of general parametric eigenvalue problems*, Alessandro Borghi and Davide Pradovera, [ArXiv](https://arxiv.org/abs/2308.05335).
 - *Balanced truncation with conformal maps*, Alessandro Borghi, Tobias Breiten and Serkan Gugercin, [Arxiv](https://arxiv.org/abs/2405.15656).
