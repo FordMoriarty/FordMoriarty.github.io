@@ -44,12 +44,14 @@ Bologna in order to receive a double BSc degree in automation engineering. <br/>
 
 
 ## Talks, Conferences & Visits
-- [pyMOR summer school](https://2022.school.pymor.org), Magdeburg, Germany -- presentation<br/>
-- [MORE 2022](https://more.sciencesconf.org/), Berlin, Germany -- part of the co-organizing team
-- [YMMOR2023 workshop](https://www.uni-ulm.de/mawi/institut-fuer-numerische-mathematik/forschung/ymmor-workshop-2023/), Ulm, Germany -- presentation <br/>
-- Visiting student @VirginiaTech in the group of [Serkan Gugercin](https://gugercin.math.vt.edu), Blacksburg (VA), United states
-- [Nonlinear model order reduction for control](https://personal.math.vt.edu/jborggaa/nlromc/index.html), Blacksburg (VA), United states -- presentation <br/>
+- [GAMM 94th annual meeting](https://jahrestagung.gamm.org/annual-meeting-2024/94th-annual-meeting/), Magdeburg, Germany -- presentation<br/>
+- [YMMOR2024 workshop](https://www.ymmor2024.uni-stuttgart.de), Stuttgart, Germany -- presentation<br/>
 - [ILAS 2023](http://ilas2023.es/), Madrid, Spain -- invited talk <br/>
+- [Nonlinear model order reduction for control](https://personal.math.vt.edu/jborggaa/nlromc/index.html), Blacksburg (VA), United states -- presentation <br/>
+- Visiting student @VirginiaTech in the group of [Serkan Gugercin](https://gugercin.math.vt.edu), Blacksburg (VA), United states
+- [YMMOR2023 workshop](https://www.uni-ulm.de/mawi/institut-fuer-numerische-mathematik/forschung/ymmor-workshop-2023/), Ulm, Germany -- presentation <br/>
+- [MORE 2022](https://more.sciencesconf.org/), Berlin, Germany -- part of the co-organizing team
+- [pyMOR summer school](https://2022.school.pymor.org), Magdeburg, Germany -- presentation<br/>
 
 ## Memberships
 - mentee at [LeadTheFuture](https://www.leadthefuture.tech/)
