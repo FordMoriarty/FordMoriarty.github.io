@@ -14,7 +14,7 @@
 # About me
 I am a [PhD student](https://www.tu.berlin/en/fgmso/alessandro-borghi) in the group [FG Modellierung, Simulation und Optimierung realer Prozesse](https://www.tu.berlin/en/fgmso) of [Prof. Dr. Tobias Breiten](https://www.tu.berlin/en/fgmso/tobias-breiten). My position is given by the DFG as part of the [daedalus](https://daedalus.berlin/) group. 
 The topic of my project deals with the development of cool algorithms for making hard models computationally accessible.
-My research has connections with _data-driven reduced order modeling_, _numerical linear algebra_, _control theory_, and _approximation theory_. 
+My research has connections with _systems & control theory_, _model order reduction_, _numerical linear algebra_, and _approximation theory_. 
 
 <!--My research focuses on the design and implementation of algorithms for solving nonlinar eigenvalue problems. In particular I am interested on the identification of _exceptional points_. -->
 
@@ -36,11 +36,10 @@ Bologna in order to receive a double BSc degree in automation engineering. <br/>
 
 
 ## Research interests
-- numerical linear algebra
-- data-driven model order reduction
+- model order reduction
+- control theory
 - approximation theory
 - Koopman operator theory
-- random matrix theory
 
 
 ## Talks, Conferences & Visits
